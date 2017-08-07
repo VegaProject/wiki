@@ -17,4 +17,4 @@ Applications
 
 Code
  - [Vega Contracts](https://github.com/VegaProject/vega-contracts)
- - [Vega CLI](https://github.com/VegaProject/vega)
+ - [Vega CLI](https://github.com/VegaProject/vega/tree/cli)
