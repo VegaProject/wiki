@@ -9,10 +9,8 @@ Vega
 
 Applications
  - [Decentralized Hedge Fund](https://github.com/VegaProject/wiki/wiki/decentralized-hedge-fund)
- - [Incentivized Crowdfunding](https://github.com/VegaProject/wiki/wiki/incentivized-crowdfunding)
  - [The Autonomous CEO](https://github.com/VegaProject/wiki/wiki/the-autonomous-ceo)
  - [Alternative DPoS Voting](https://github.com/VegaProject/wiki/wiki/alternative-dpos-voting)
- - [Community Driven Agriculture](https://github.com/VegaProject/wiki/wiki/community-driven-agriculture)
  - [Further Applications](https://github.com/VegaProject/wiki/wiki/further-applications)
 
 Code
